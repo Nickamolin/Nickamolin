@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Nickamolin/Nickamolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>Hello, I'm Nicholas! </h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Java (IntelliJ, Eclipse, VSCode</b>
+  - [Class Projects](google.com)
+- <b>C# (Unity 3D)</b>
+  - [Calc Vision](https://www.youtube.com/watch?v=rLlaaXyZbyI)
+- <b>Temp</b>
+  - [Temp Demo](google.com)
+
+<h2>📺 Freelance Work: </h2>
+
+- [Flourish Intro](https://www.youtube.com/watch?v=bqCrQkWlCVk)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Nicholas Gamolin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/nicholas-gamolin/
