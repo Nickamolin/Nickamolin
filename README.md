@@ -17,16 +17,23 @@ Here are some ideas to get you started:
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Java (IntelliJ, Eclipse, VSCode</b>
-  - [Class Projects](google.com)
-- <b>C# (Unity 3D)</b>
+- <b>Java</b>
+  - [UVA Course Reviewer](google.com)
+  - [Wordle (Offline Recreation)](google.com)
+  - [Mobile Chapter Manager](google.com)
+- <b>C, C++, C#</b>
   - [Calc Vision](https://www.youtube.com/watch?v=rLlaaXyZbyI)
-- <b>Temp</b>
-  - [Temp Demo](google.com)
+  - [Postfix Calculator](google.com)
+  - [Randomized Business Quiz](google.com)
+- <b>HTML, CSS, JS</b>
+  - [negativedomain.com](https://negativedomain.com/)
+- <b>Other</b>
+  - [Asteroids](google.com)
+  - [Space Invaders Business Quiz](google.com)
 
-<h2>📺 Freelance Work: </h2>
+<h2>📺 Digital Art & Animation: </h2>
 
-- [Flourish Intro](https://www.youtube.com/watch?v=bqCrQkWlCVk)
+- [Flourish Intro (UVA Contemplative Sciences Center)](https://www.youtube.com/watch?v=bqCrQkWlCVk)
 
 <h2> 🤳 Connect with me:</h2>
 
