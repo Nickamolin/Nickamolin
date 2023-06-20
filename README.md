@@ -31,11 +31,12 @@ Here are some ideas to get you started:
   - [Asteroids](google.com)
   - [Space Invaders Business Quiz](google.com)
 
-<h2>📺 Digital Art & Animation: </h2>
+<h2>📺 Digital Art & Animation:</h2>
 
 - [Flourish Intro (UVA Contemplative Sciences Center)](https://www.youtube.com/watch?v=bqCrQkWlCVk)
+- [Negative Domain (Digital Art)](https://negativedomain.com/)
 
-<h2> 🤳 Connect with me:</h2>
+<h3>Connect with me:</h3>
 
 [<img align="left" alt="Nicholas Gamolin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
