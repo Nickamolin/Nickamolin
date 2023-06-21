@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
-  - [UVA Course Reviewer](google.com)
+  - [UVA Course Reviewer](https://github.com/Nickamolin/UVACourseReviewer)
   - [Wordle (Offline Recreation)](google.com)
   - [Mobile Chapter Manager](google.com)
 - <b>C, C++, C#</b>
-  - [Calc Vision](https://www.youtube.com/watch?v=rLlaaXyZbyI)
+  - [Calc Vision](https://github.com/Nickamolin/CalcVision/blob/main/README.md)
   - [Postfix Calculator](google.com)
   - [Randomized Business Quiz](google.com)
 - <b>HTML, CSS, JS</b>
