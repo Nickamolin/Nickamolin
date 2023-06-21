@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 - <b>Java</b>
   - [UVA Course Reviewer](https://github.com/Nickamolin/UVACourseReviewer)
   - [Wordle (Offline Recreation)](https://github.com/Nickamolin/Wordle)
-  - [Mobile Chapter Manager](google.com)
+  - [Mobile Chapter Manager](https://github.com/Nickamolin/MobileChapterManager)
 - <b>C, C++, C#</b>
   - [Calc Vision (3D Graphing Calculator)](https://github.com/Nickamolin/CalcVision/blob/main/README.md)
-  - [Postfix Calculator](google.com)
-  - [Randomized Business Quiz](google.com)
+  - [Postfix Calculator](https://github.com/Nickamolin/PostFixCalculator)
+  - [Randomized Business Quiz](https://github.com/Nickamolin/RandomizedBusinessQuiz)
 - <b>HTML, CSS, JS</b>
-  - [negativedomain.com](https://negativedomain.com/)
+  - [Online Art Gallery (negativedomain.com)](https://github.com/Nickamolin/OnlineArtGallery)
 - <b>Other</b>
-  - [Asteroids](google.com)
-  - [Space Invaders Business Quiz](google.com)
+  - [Asteroids](https://github.com/Nickamolin/Asteroids)
+  - [Space Invaders Business Quiz](https://github.com/Nickamolin/SpaceInvadersBusinessQuiz)
 
 <h2>📺 Digital Art & Animation:</h2>
 
