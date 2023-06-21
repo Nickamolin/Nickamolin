@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   - [Wordle (Offline Recreation)](google.com)
   - [Mobile Chapter Manager](google.com)
 - <b>C, C++, C#</b>
-  - [Calc Vision](https://github.com/Nickamolin/CalcVision/blob/main/README.md)
+  - [Calc Vision (3D Graphing Calculator)](https://github.com/Nickamolin/CalcVision/blob/main/README.md)
   - [Postfix Calculator](google.com)
   - [Randomized Business Quiz](google.com)
 - <b>HTML, CSS, JS</b>
