@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - <b>Java</b>
   - [UVA Course Reviewer](https://github.com/Nickamolin/UVACourseReviewer)
-  - [Wordle (Offline Recreation)](google.com)
+  - [Wordle (Offline Recreation)](https://github.com/Nickamolin/Wordle)
   - [Mobile Chapter Manager](google.com)
 - <b>C, C++, C#</b>
   - [Calc Vision (3D Graphing Calculator)](https://github.com/Nickamolin/CalcVision/blob/main/README.md)
