@@ -21,10 +21,11 @@ Here are some ideas to get you started:
   - [UVA Course Reviewer](https://github.com/Nickamolin/UVACourseReviewer)
   - [Wordle (Offline Recreation)](https://github.com/Nickamolin/Wordle)
   - [Mobile Chapter Manager](https://github.com/Nickamolin/MobileChapterManager)
-- <b>C, C++, C#</b>
-  - [Calc Vision (3D Graphing Calculator)](https://github.com/Nickamolin/CalcVision/blob/main/README.md)
+- <b>C, C++</b>
   - [Postfix Calculator](https://github.com/Nickamolin/PostFixCalculator)
-  - [Randomized Business Quiz](https://github.com/Nickamolin/RandomizedBusinessQuiz)
+- <b>C#</b>
+  - [Calc Vision (3D Graphing Calculator)](https://github.com/Nickamolin/CalcVision/blob/main/README.md)
+  - [Randomized Business Quiz](https://github.com/Nickamolin/RandomizedBusinessQuiz) 
 - <b>HTML, CSS, JS</b>
   - [Online Art Gallery (negativedomain.com)](https://github.com/Nickamolin/OnlineArtGallery)
 - <b>Other</b>
