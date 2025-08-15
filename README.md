@@ -34,7 +34,7 @@ Here's a portfolio of some of my software engineering and design work.
 
 <h2>🛜 Web Dev</h2>
 
-- [Online Art Gallery (negativedomain.com)](https://negativedomain.com/)
+- [Online Art Gallery (negativedomain.com)](https://github.com/Nickamolin/NegativeDomain)
 
 <!--
 - <b>Java</b>
