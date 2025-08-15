@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>Hello, I'm Nicholas! </h1>
+Here's a portfolio of some of my software engineering and design work.
 
 <h2>🎮 Game Design:</h2>
 
