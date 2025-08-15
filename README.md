@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 
 <h1>Hello, I'm Nicholas! </h1>
 
+<h2>👨‍💻 Game Dev:</h2>
+
+- [Endangered Cake Museum](https://drakonnic.itch.io/endangered-cake-museum)
+- [Brick Digger](https://www.lexaloffle.com/bbs/?tid=147781)
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Java</b>
