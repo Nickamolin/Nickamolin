@@ -18,11 +18,22 @@ Here's a portfolio of some of my software engineering and design work.
 
 <h2>🎮 Game Design:</h2>
 
-- [Endangered Cake Museum](https://drakonnic.itch.io/endangered-cake-museum)
-- [Brick Digger](https://www.lexaloffle.com/bbs/?tid=147781)
+- [Endangered Cake Museum (Top-Down Stealth Game)](https://drakonnic.itch.io/endangered-cake-museum)
+- [Brick Digger (Endless Brick-Breaking Arcard Game)](https://www.lexaloffle.com/bbs/?tid=147781)
+- [Calc Vision (3D Graphing Calculator)](https://github.com/Nickamolin/CalcVision/blob/main/README.md)
+- [Randomized Business Quiz](https://github.com/Nickamolin/RandomizedBusinessQuiz)
+- [Asteroids](https://github.com/Nickamolin/Asteroids)
+- [Space Invaders Business Quiz](https://github.com/Nickamolin/SpaceInvadersBusinessQuiz)
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>📱 Mobile App Dev:</h2>
 
+- [UBlock: Distracting App Redirector](https://github.com/Nickamolin/UblockFocusApp)
+
+<h2>🛜 Web Dev</h2>
+
+- [Online Art Gallery (negativedomain.com)](https://github.com/Nickamolin/OnlineArtGallery)
+
+<!--
 - <b>Java</b>
   - [UVA Course Reviewer](https://github.com/Nickamolin/UVACourseReviewer)
   - [Wordle (Offline Recreation)](https://github.com/Nickamolin/Wordle)
@@ -37,11 +48,15 @@ Here's a portfolio of some of my software engineering and design work.
 - <b>Other</b>
   - [Asteroids](https://github.com/Nickamolin/Asteroids)
   - [Space Invaders Business Quiz](https://github.com/Nickamolin/SpaceInvadersBusinessQuiz)
+-->
 
 <h2>📺 Digital Art & Animation:</h2>
 
-- [Flourish Intro (UVA Contemplative Sciences Center)](https://www.youtube.com/watch?v=bqCrQkWlCVk)
-- [Negative Domain (Digital Art)](https://negativedomain.com/)
+- [DNA | F1 The Movie (Video Edit)](https://www.youtube.com/watch?v=HuUPuRlJSnc)
+- [Tore Up | Top Gun: Maverick (Video Edit)](https://www.youtube.com/watch?v=mDZmO595esM)
+- [Flourish Intro (2D Animation)](https://www.youtube.com/watch?v=bqCrQkWlCVk)
+- [Negative Domain (Digital Art Gallery)](https://negativedomain.com/)
+- [The Rider (3D Animation)](https://www.youtube.com/watch?v=LD4bC0svJ5E)
 
 <h3>Connect with me:</h3>
 
