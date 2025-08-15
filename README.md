@@ -20,10 +20,13 @@ Here's a portfolio of some of my software engineering and design work.
 
 - [Endangered Cake Museum (Top-Down Stealth Game)](https://drakonnic.itch.io/endangered-cake-museum)
 - [Brick Digger (Endless Brick-Breaking Arcard Game)](https://www.lexaloffle.com/bbs/?tid=147781)
-- [Calc Vision (3D Graphing Calculator)](https://github.com/Nickamolin/CalcVision/blob/main/README.md)
+- [Calc Vision (3D Graphing Calculator)](https://www.youtube.com/watch?v=rLlaaXyZbyI)
+
+<!--
 - [Randomized Business Quiz](https://github.com/Nickamolin/RandomizedBusinessQuiz)
 - [Asteroids](https://github.com/Nickamolin/Asteroids)
 - [Space Invaders Business Quiz](https://github.com/Nickamolin/SpaceInvadersBusinessQuiz)
+-->
 
 <h2>📱 Mobile App Dev:</h2>
 
