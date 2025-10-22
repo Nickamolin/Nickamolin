@@ -19,7 +19,7 @@ Here's a portfolio of some of my software engineering and design work.
 <h2>🎮 Game Design:</h2>
 
 - [Endangered Cake Museum (Top-Down Stealth Game)](https://drakonnic.itch.io/endangered-cake-museum)
-- [Brick Digger (Endless Brick-Breaking Arcade Game)](https://www.lexaloffle.com/bbs/?tid=147781)
+- [Brick Digger (Endless Brick-Breaking Arcade Game)](https://github.com/Nickamolin/brick-digger-demo)
 - [Calc Vision (3D Graphing Calculator)](https://www.youtube.com/watch?v=rLlaaXyZbyI)
 
 <!--
