@@ -64,6 +64,6 @@ Here's a portfolio of some of my software engineering and design work.
 
 <h3>Connect with me:</h3>
 
-[<img align="left" alt="Nicholas Gamolin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Nicholas Gamolin | LinkedIn" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/nicholas-gamolin/
