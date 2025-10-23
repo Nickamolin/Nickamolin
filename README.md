@@ -34,6 +34,7 @@ Here's a portfolio of some of my software engineering and design work.
 
 <h2>🛜 Web Dev</h2>
 
+- [Personal Portfolio Website (nicholasgamolin.com)](https://github.com/Nickamolin/nicholasgamolin)
 - [Online Art Gallery (negativedomain.com)](https://github.com/Nickamolin/NegativeDomain)
 
 <!--
