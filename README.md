@@ -54,6 +54,8 @@ Here's a portfolio of some of my software engineering and design work.
   - [Space Invaders Business Quiz](https://github.com/Nickamolin/SpaceInvadersBusinessQuiz)
 -->
 
+<!--
+
 <h2>📺 Digital Art & Animation:</h2>
 
 - [DNA | F1 The Movie (Video Edit)](https://www.youtube.com/watch?v=HuUPuRlJSnc)
@@ -61,6 +63,8 @@ Here's a portfolio of some of my software engineering and design work.
 - [Flourish Intro (2D Animation)](https://www.youtube.com/watch?v=bqCrQkWlCVk)
 - [Negative Domain (Digital Art Gallery)](https://negativedomain.com/)
 - [The Rider (3D Animation)](https://www.youtube.com/watch?v=LD4bC0svJ5E)
+
+-->
 
 <h3>Connect with me:</h3>
 
