@@ -39,7 +39,7 @@ Here's a portfolio of some of my software engineering and design work.
 
 <h2>⚙️ Desktop & CLI Apps</h2>
 
-- [Figma to HTML/CSS](https://github.com/Nickamolin/figma-to-html-css)
+- [Figma to HTML/CSS Converter (Python)](https://github.com/Nickamolin/figma-to-html-css)
 
 <!--
 - <b>Java</b>
