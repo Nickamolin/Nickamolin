@@ -37,6 +37,10 @@ Here's a portfolio of some of my software engineering and design work.
 - [Personal Portfolio Website (nicholasgamolin.com)](https://github.com/Nickamolin/nicholasgamolin)
 - [Online Art Gallery (negativedomain.com)](https://github.com/Nickamolin/NegativeDomain)
 
+<h2>⚙️ Desktop & CLI Apps</h2>
+
+- [Figma to HTML/CSS](https://github.com/Nickamolin/figma-to-html-css)
+
 <!--
 - <b>Java</b>
   - [UVA Course Reviewer](https://github.com/Nickamolin/UVACourseReviewer)
