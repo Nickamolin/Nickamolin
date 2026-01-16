@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <h1>Hello, I'm Nicholas! </h1>
-Here's a portfolio of some of my software engineering and design work.
+
+Here's a collection of some of my code. My full portfolio can be found [here](https://nicholasgamolin.com/).
+
 
 <h2>🎮 Game Design:</h2>
 
