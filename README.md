@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 Here's a collection of some of my code. My full portfolio can be found [here](https://nicholasgamolin.com/).
 
+<h2>🌐 Web Dev:</h2>
+
+- [Personal Portfolio Website (nicholasgamolin.com)](https://github.com/Nickamolin/nicholasgamolin)
+- [Online Art Gallery (negativedomain.com)](https://github.com/Nickamolin/NegativeDomain)
 
 <h2>🎮 Game Design:</h2>
 
@@ -33,11 +37,6 @@ Here's a collection of some of my code. My full portfolio can be found [here](ht
 <h2>📱 Mobile App Dev:</h2>
 
 - [UBlock: Distracting App Redirector (iOS)](https://github.com/Nickamolin/UblockFocusApp)
-
-<h2>🛜 Web Dev:</h2>
-
-- [Personal Portfolio Website (nicholasgamolin.com)](https://github.com/Nickamolin/nicholasgamolin)
-- [Online Art Gallery (negativedomain.com)](https://github.com/Nickamolin/NegativeDomain)
 
 <!-- <h2>⚙️ Desktop & CLI Apps:</h2>
 
