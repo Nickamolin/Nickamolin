@@ -26,7 +26,7 @@ Here's a collection of some of my code. My full portfolio can be found [here](ht
 
 - [Endangered Cake Museum (Top-Down Stealth Game)](https://github.com/Nickamolin/endangered-cake-museum)
 - [Brick Digger (Endless Brick-Breaking Arcade Game)](https://github.com/Nickamolin/brick-digger-demo)
-- [Calc Vision (3D Graphing Calculator)](https://www.youtube.com/watch?v=rLlaaXyZbyI)
+- [Calc Vision (3D Graphing Calculator)](https://github.com/Nickamolin/CalcVision)
 
 <!--
 - [Randomized Business Quiz](https://github.com/Nickamolin/RandomizedBusinessQuiz)
